@@ -1,17 +1,41 @@
-### Hi there, I'm U Srujan! 👋
+### <p align="center">Hi there, I'm Srujan Uppalapu! 👋</p>
 
-🚀 *About Me*
-I'm a BTech student in *Artificial Intelligence and Machine Learning (AIML)* under *Computer Science and Engineering (CSE). Passionate about **Web Development, App Development, AI, SQL, ML, and Backend Development*.
+---
 
-💡 *What I'm Working On*
-- 🔢 *My PortFolio Site* – My Brand New Portfolio is Comin' Soon.
-
-
-📚 *Tech Stack*
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+🚀 <strong>B.Tech CSE (AI & ML) Student</strong> at <strong>SRM University, Kattankulathur, Chennai</strong>  <br>
+💻 Passionate about <strong>coding, AI/ML, and problem-solving</strong>  <br>
+🎯 Currently <strong>building my GitHub profile</strong> and exploring <strong>new technologies</strong>
 </p>
+
+---
+
+### <p align="center">🛠️ Tech Stack</p>
+
+<p align="center">
+<strong>Languages:</strong>  <br>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+<p align="center">
+<strong>Web Development:</strong>  <br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+---
+
+### <p align="center">🔥 Interests</p>
+<p align="center">
+🤖 AI & Machine Learning <br>
+💡 Competitive Programming <br>
+💻 Software Development <br>
+🌍 Open-Source Contributions
+</p>
+
 
 📫 *Let's Connect!*
 <p align="center">
